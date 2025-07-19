@@ -66,3 +66,7 @@ logs
 *.temp
 .temp/
 .tmp/
+
+# Lock files (keep only pnpm-lock.yaml)
+package-lock.json
+yarn.lock
