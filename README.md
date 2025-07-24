@@ -36,4 +36,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshots
 
-Coming soon... 
+Coming soon...
+
+## Deployment
+
+This project can be deployed to Vercel, Netlify, or any other static hosting platform.
+
+### Vercel Deployment
+
+1. Push your code to GitHub
+2. Connect your repository to Vercel
+3. Deploy automatically on every push
+
+### Environment Variables
+
+No environment variables required for basic functionality. 
