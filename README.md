@@ -50,4 +50,18 @@ This project can be deployed to Vercel, Netlify, or any other static hosting pla
 
 ### Environment Variables
 
-No environment variables required for basic functionality. 
+No environment variables required for basic functionality.
+
+## Changelog
+
+### Version 1.0.0
+- Initial release
+- Basic note creation and management
+- Local storage persistence
+- Responsive design
+
+### Upcoming Features
+- Cloud sync
+- Markdown support
+- Collaborative editing
+- Mobile app 
