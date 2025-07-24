@@ -28,4 +28,12 @@ A simple note-taking application built with Next.js and TypeScript.
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests! 
+Feel free to submit issues and enhancement requests!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Screenshots
+
+Coming soon... 
