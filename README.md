@@ -8,6 +8,8 @@ A simple note-taking application built with Next.js and TypeScript.
 - Modern UI with Tailwind CSS
 - Responsive design
 - Local storage support
+- Real-time editing
+- Auto-save functionality
 
 ## Getting Started
 
@@ -21,4 +23,9 @@ A simple note-taking application built with Next.js and TypeScript.
 - Next.js 14
 - TypeScript
 - Tailwind CSS
-- React Hooks 
+- React Hooks
+- Local Storage API
+
+## Contributing
+
+Feel free to submit issues and enhancement requests! 
